@@ -86,7 +86,7 @@ def send_message():
 while True:
     print("Webex TroubleShooting center:")
     print("0. Test Connection with webex")
-    print("1. Display all User Information")
+    print("1. Display User all Information")
     print("2. All Room information")
     print("3. Create a Room")
     print("4. Send Message to a Room")
